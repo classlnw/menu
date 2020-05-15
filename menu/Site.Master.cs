@@ -20,7 +20,6 @@ namespace menu
         protected void Page_Load(object sender, EventArgs e)
         {
 
-
             //      < li class="nav-item" runat="server">
             //  <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseBootstrap" aria-expanded="false" aria-controls="collapseBootstrap">
             //    <i class="far fa-fw fa-window-maximize"></i>
